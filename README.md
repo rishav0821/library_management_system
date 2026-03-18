@@ -38,3 +38,16 @@ A console-based Library Management System built using Java and Object-Oriented P
 - `Transaction.java` - Handles book issuing and returning transactions.
 - `LibraryItem.java` - Base class or interface for library items.
 - `LibraryException.java` - Custom exception handling for library errors.
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Screenshot 1
+![Screenshot1](screenshots/Screenshot1.png)
+
+### Screenshot 2
+![Screenshot2](screenshots/Screenshot2.png)
+
+### Screenshot 3
+![Screenshot3](screenshots/Screenshot3.png)
